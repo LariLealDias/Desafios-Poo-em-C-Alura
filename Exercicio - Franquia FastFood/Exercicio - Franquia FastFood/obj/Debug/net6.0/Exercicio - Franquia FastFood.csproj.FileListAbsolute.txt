@@ -1,0 +1,15 @@
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\bin\Debug\net6.0\Exercicio - Franquia FastFood.exe
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\bin\Debug\net6.0\Exercicio - Franquia FastFood.deps.json
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\bin\Debug\net6.0\Exercicio - Franquia FastFood.runtimeconfig.json
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\bin\Debug\net6.0\Exercicio - Franquia FastFood.dll
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\bin\Debug\net6.0\Exercicio - Franquia FastFood.pdb
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.csproj.AssemblyReference.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.AssemblyInfoInputs.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.AssemblyInfo.cs
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.csproj.CoreCompileInputs.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.dll
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\refint\Exercicio - Franquia FastFood.dll
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.pdb
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\Exercicio - Franquia FastFood.genruntimeconfig.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\obj\Debug\net6.0\ref\Exercicio - Franquia FastFood.dll

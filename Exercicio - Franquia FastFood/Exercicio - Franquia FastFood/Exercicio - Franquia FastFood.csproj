@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Exercicio___Franquia_FastFood</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Orientação a objetos\Exercicio - Franquia FastFood\Exercicio - Franquia FastFood\.editorconfig" />
+  </ItemGroup>
+
+</Project>
