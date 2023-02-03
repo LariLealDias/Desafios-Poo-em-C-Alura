@@ -1,0 +1,15 @@
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\bin\Debug\net6.0\LivroAbstract.exe
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\bin\Debug\net6.0\LivroAbstract.deps.json
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\bin\Debug\net6.0\LivroAbstract.runtimeconfig.json
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\bin\Debug\net6.0\LivroAbstract.dll
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\bin\Debug\net6.0\LivroAbstract.pdb
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.csproj.AssemblyReference.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.AssemblyInfoInputs.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.AssemblyInfo.cs
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.csproj.CoreCompileInputs.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.dll
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\refint\LivroAbstract.dll
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.pdb
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\LivroAbstract.genruntimeconfig.cache
+C:\Users\laril\OneDrive\Documentos\Alura\CSharp - Usando herança e implementando interfaces\Desafio\Personalizando um construtor\LivroAbstract\LivroAbstract\obj\Debug\net6.0\ref\LivroAbstract.dll

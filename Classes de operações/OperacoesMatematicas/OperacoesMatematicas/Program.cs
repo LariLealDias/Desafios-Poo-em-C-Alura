@@ -58,11 +58,6 @@ namespace Main
                     Console.WriteLine("Encerrado");
                     break;
             }
-
-
-
-
-
         }
     }
 }
